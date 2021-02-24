@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "103808584958",
+    "project_id": "don-tlate",
+    "storage_bucket": "don-tlate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103808584958:android:8daed92b9050489bf029af",
+        "android_client_info": {
+          "package_name": "com.example.dontlate_ver1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103808584958-n43nb8bmpr1cv7b4gs0dbc89laj1o1hn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dontlate_ver1",
+            "certificate_hash": "c091ae1060f1f87af7dfdffe1e5b1ef53aa2659d"
+          }
+        },
+        {
+          "client_id": "103808584958-ivblk17f43s40vo858vflqik5jgeqvvj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3lxepCqxYG4AHQ-eMtyJdBJQJ_Nm56n0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103808584958-ivblk17f43s40vo858vflqik5jgeqvvj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

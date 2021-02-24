@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "dontlate_ver1"

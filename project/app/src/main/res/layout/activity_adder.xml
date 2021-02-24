@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="87dp"
+            android:layout_height="87dp"
+            android:layout_marginStart="32dp"
+            android:layout_marginLeft="32dp"
+            android:gravity="center"
+            android:text="과목:"
+            android:fontFamily="@font/app_main_font"
+            android:textSize="35sp" />
+        <TextView
+            android:layout_width="87dp"
+            android:layout_height="87dp"
+            android:layout_marginStart="32dp"
+            android:layout_marginLeft="32dp"
+            android:gravity="center"
+            android:text="주차시:"
+            android:fontFamily="@font/app_main_font"
+            android:textSize="35sp" />
+
+        <TextView
+            android:layout_width="87dp"
+            android:layout_height="87dp"
+            android:layout_marginStart="32dp"
+            android:layout_marginLeft="32dp"
+            android:gravity="center"
+            android:text="동영상:"
+            android:fontFamily="@font/app_main_font"
+            android:textSize="35sp" />
+
+        <TextView
+            android:layout_width="87dp"
+            android:layout_height="87dp"
+            android:layout_marginStart="32dp"
+            android:layout_marginLeft="32dp"
+            android:gravity="center"
+            android:text="완료: "
+            android:fontFamily="@font/app_main_font"
+            android:textSize="35sp" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/subject"
+            android:layout_width="150dp"
+            android:layout_height="87dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginLeft="8dp"
+            android:gravity="center"
+            android:fontFamily="@font/app_main_font"
+            android:textSize="40sp"/>
+        <TextView
+            android:id="@+id/week"
+            android:layout_width="150dp"
+            android:layout_height="87dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginLeft="8dp"
+            android:gravity="center"
+            android:fontFamily="@font/app_main_font"
+            android:textSize="40sp"/>
+        <TextView
+            android:id="@+id/numOfVideo"
+            android:layout_width="150dp"
+            android:layout_height="87dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginLeft="8dp"
+            android:gravity="center"
+            android:fontFamily="@font/app_main_font"
+            android:textSize="40sp" />
+        <TextView
+            android:id="@+id/comOfVideo"
+            android:layout_width="150dp"
+            android:layout_height="87dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginLeft="8dp"
+            android:gravity="center"
+            android:fontFamily="@font/app_main_font"
+            android:textSize="40sp"/>
+
+    </LinearLayout>
+
+</LinearLayout>
